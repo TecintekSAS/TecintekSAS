@@ -42,6 +42,16 @@
 
 ## 🚀 Proyectos · *Projects*
 
+### 🔓 Código abierto
+
+| Repositorio | Qué hace | Tecnología |
+|---|---|---|
+| 💬 **[whatsapp-ai-bot](https://github.com/TecintekSAS/whatsapp-ai-bot)** | Agente de ventas con IA para WhatsApp Business: responde con tu catálogo 24/7 | Python · FastAPI · Claude · Docker |
+| 📡 **[secop-radar](https://github.com/TecintekSAS/secop-radar)** | Encuentra licitaciones abiertas en SECOP II por palabras clave, departamento y valor | Python · Datos abiertos |
+| 🧾 **[cotizador-web](https://github.com/TecintekSAS/cotizador-web)** · [**demo en vivo**](https://tecinteksas.github.io/cotizador-web/) | Cotizaciones profesionales en PDF con IVA y descuentos | HTML · JavaScript |
+
+### 🏗️ Productos en desarrollo
+
 | Proyecto | Descripción | Estado |
 |---|---|---|
 | **LicitaIA** | Auditoría inteligente de pliegos de contratación pública en Colombia con IA | 🔨 En desarrollo |
@@ -50,7 +60,7 @@
 | **Agente de ventas IA** | Agente que automatiza ventas en múltiples canales sociales | 🧪 Prototipo |
 | **LivePulse** | Tablero interactivo de encuestas en vivo para formación | ✅ Funcional |
 
-> 📌 *Los repositorios públicos se irán publicando aquí. ¿Te interesa colaborar? Abre un issue o escríbenos.*
+> 📌 *¿Te interesa colaborar o usar alguno en tu negocio? Abre un issue o escríbenos.*
 
 ---
 
